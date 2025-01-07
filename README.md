@@ -34,5 +34,4 @@ o
 ~~~
 npm run dev
 ~~~
-## Link 
-http://localhost:3000/
+
